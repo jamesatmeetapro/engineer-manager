@@ -258,6 +258,7 @@
  * [Take care of middle managers in the hybrid world](https://www.axios.com/2022/09/29/take-care-of-middle-managers-in-the-hybrid-world) - An article highlighting ways to help support managers in a distributed workforce.
  * [Navigating power dynamics as a manager](https://leaddev.com/communication-relationships/navigating-power-dynamics-manager?utm_source=ActiveCampaign&utm_medium=email&utm_content=Navigating+power+dynamics+as+a+manager&utm_campaign=Originals+-+Issue+109+%28October+20%29) - A good article speaking to the power dynamics of a manager and how to reduce the imbalance.
  * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/) - Helpful tips for starting a new leadership role.
+ * [The Best Way To Prepare for FAANG Software Engineer Interviews](https://medium.com/@james.s_5150/the-best-way-to-prepare-for-faang-software-engineer-interviews-ab139810c6b0) To ace the FAANG interviews, it's important to be well-prepared in all areas, including coding, system design, and behavior. Additionally, practicing mock interviews on websites such as [Meetapro](https://meetapro.com/?utm_source=githubalam) is an excellent way to prepare thoroughly. Through mock interviews, you can receive detailed feedback directly from experienced interviewers.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
